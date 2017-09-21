@@ -1,5 +1,7 @@
 # CupsGame
 
+A simple game of cups.  Press new game and the cards will be shuffled.  Try to guess which card is an ace
+
 ## Getting Started 
 
 ### Prerequisites
